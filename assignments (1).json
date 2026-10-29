@@ -1,0 +1,168 @@
+{
+  "version": 2,
+  "cards": {
+    "CARD-001": {
+      "type": "saved"
+    },
+    "CARD-002": {
+      "type": "saved"
+    },
+    "CARD-003": {
+      "type": "saved"
+    },
+    "CARD-004": {
+      "type": "saved"
+    },
+    "CARD-005": {
+      "type": "saved"
+    },
+    "CARD-006": {
+      "task": "Team 1 · One Word at a Time",
+      "detail": "As a team, tell a story one word per person. Keep going until it reaches a funny ending."
+    },
+    "CARD-007": {
+      "task": "The Singer",
+      "detail": "Sing any song for 15 seconds."
+    },
+    "CARD-008": {
+      "type": "saved"
+    },
+    "CARD-009": {
+      "type": "saved"
+    },
+    "CARD-010": {
+      "type": "saved"
+    },
+    "CARD-011": {
+      "type": "saved"
+    },
+    "CARD-012": {
+      "task": "The Fashion Model",
+      "detail": "Walk the ramp like you're at a fashion show."
+    },
+    "CARD-013": {
+      "type": "saved"
+    },
+    "CARD-014": {
+      "type": "saved"
+    },
+    "CARD-015": {
+      "type": "saved"
+    },
+    "CARD-016": {
+      "type": "saved"
+    },
+    "CARD-017": {
+      "type": "saved"
+    },
+    "CARD-018": {
+      "task": "Team 1 · One Word at a Time",
+      "detail": "As a team, tell a story one word per person. Keep going until it reaches a funny ending."
+    },
+    "CARD-019": {
+      "task": "The Hook Step Challenge",
+      "detail": "Perform a famous hook step for 15 seconds."
+    },
+    "CARD-020": {
+      "type": "saved"
+    },
+    "CARD-021": {
+      "type": "saved"
+    },
+    "CARD-022": {
+      "task": "Team 2 · The 5-Second Challenge",
+      "detail": "As a team, name three things in a category before five seconds are up. No overthinking!"
+    },
+    "CARD-023": {
+      "task": "Team 2 · The 5-Second Challenge",
+      "detail": "As a team, name three things in a category before five seconds are up. No overthinking!"
+    },
+    "CARD-024": {
+      "type": "saved"
+    },
+    "CARD-025": {
+      "type": "saved"
+    },
+    "CARD-026": {
+      "task": "Team 2 · The 5-Second Challenge",
+      "detail": "As a team, name three things in a category before five seconds are up. No overthinking!"
+    },
+    "CARD-027": {
+      "task": "Team 1 · One Word at a Time",
+      "detail": "As a team, tell a story one word per person. Keep going until it reaches a funny ending."
+    },
+    "CARD-028": {
+      "type": "saved"
+    },
+    "CARD-029": {
+      "type": "saved"
+    },
+    "CARD-030": {
+      "type": "saved"
+    },
+    "CARD-031": {
+      "type": "saved"
+    },
+    "CARD-032": {
+      "type": "saved"
+    },
+    "CARD-033": {
+      "type": "saved"
+    },
+    "CARD-034": {
+      "type": "saved"
+    },
+    "CARD-035": {
+      "type": "saved"
+    },
+    "CARD-036": {
+      "type": "saved"
+    },
+    "CARD-037": {
+      "type": "saved"
+    },
+    "CARD-038": {
+      "type": "saved"
+    },
+    "CARD-039": {
+      "type": "saved"
+    },
+    "CARD-040": {
+      "type": "saved"
+    },
+    "CARD-041": {
+      "type": "saved"
+    },
+    "CARD-042": {
+      "type": "saved"
+    },
+    "CARD-043": {
+      "type": "saved"
+    },
+    "CARD-044": {
+      "type": "saved"
+    },
+    "CARD-045": {
+      "type": "saved"
+    },
+    "CARD-046": {
+      "type": "saved"
+    },
+    "CARD-047": {
+      "task": "Team 1 · One Word at a Time",
+      "detail": "As a team, tell a story one word per person. Keep going until it reaches a funny ending."
+    },
+    "CARD-048": {
+      "type": "saved"
+    },
+    "CARD-049": {
+      "type": "saved"
+    },
+    "CARD-050": {
+      "type": "saved"
+    },
+    "CARD-051": {
+      "type": "saved"
+    }
+  }
+}
